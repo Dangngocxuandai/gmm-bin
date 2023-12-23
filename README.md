@@ -1,6 +1,7 @@
 # dnxdai
 # dnxdai
-![deep]([https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.freepik.com%2Fpremium-vector%2Fcoder-developer-concentrated-working-project-developing-programming-coding-technologies_27490843.htm&psig=AOvVaw3OFCaiWxTadOzEAqE2NIhs&ust=1703422726548000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCODOubLOpYMDFQAAAAAdAAAAABAr])
+![2a](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/6153f65e-a4b3-45b0-9421-7e2d2e42bc56)
+
 
 
 # What is Metagenomics?
