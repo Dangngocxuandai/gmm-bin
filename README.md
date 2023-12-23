@@ -33,7 +33,7 @@ git clone [https://github.com/Dangngocxuandai/dnxdai.git]
 ### Useful Commands
 * To run GMM's clustering results, run the command line:
 ```bash
-cd /dnxdai/20232024-01-CT252-B2003731_final/deep-metagnomics-pub-main-final
+cd dnxdai/20232024-01-CT252-B2003731_final/deep-metagnomics-pub-main-final
 ```
 ```bash
 ./script-test.sh
