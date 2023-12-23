@@ -1,0 +1,166 @@
+{'type_run': 'learn', 'config_file': '', 'seed_value_begin': 1, 'search_already': 'y', 'cudaid': -3, 'gpu_memory_fraction': 0.0, 'rd_pr_seed': 'none', 'debug': 'n', 'check': 'n', 'n_folds': 10, 'test_ext': 'n', 'run_time': 1, 'whole_run_time': 1, 'test_size': 1.0, 'parent_folder_img': 'images', 'original_data_folder': 'data', 'data_name': 't2d', 'parent_folder_results': 'results', 'save_avg_run': 'n', 'save_labels': 'n', 'save_d': 'n', 'save_w': 'n', 'suff_fini': 'ok', 'save_rf': 'y', 'save_para': 'n', 'path_config_w': '', 'ext_data': '', 'save_entire_w': 'n', 'save_folds': 'y', 'sound_fini': 'n', 'pretrained_w_path': '', 'path_vis_learn': '', 'path_data_vis_learn': '', 'transpose_data': 'n', 'del0': 'n', 'preprocess_img': 'none', 'dim_img': -1, 'visualize_model': 'n', 'algo_redu': 'none', 'reduc_perle': 10, 'reduc_ini': 'pca', 'imp_fea': 'none', 'label_emb': 0, 'emb_data': '', 'type_bin': 'GMM', 'cmap_vmin': 0.0, 'cmap_vmax': 1.0, 'scale_mode': '', 'n_quantile': 1000, 'min_scale': 0.0, 'max_scale': 1.0, 'min_v': 0.0, 'max_v': 1.0, 'num_bin': 19, 'auto_v': 'n', 'gmm_init_params': None, 'gmm_covariance_type': None, 'type_emb': 'bin', 'orderf_fill': 'none', 'new_dim': 676, 'lr_visual': 100.0, 'label_visual': '', 'iter_visual': 300, 'ini_visual': 'pca', 'method_lle': 'standard', 'eigen_solver': 'auto', 'mode_pre_img': 'caffe', 'perlexity_neighbor': 5, 'n_components_emb': 2, 'shape_drawn': ',', 'fig_size': 0, 'point_size': 1.0, 'colormap': '', 'margin': 0.0, 'alpha_v': 1.0, 'recreate_img': 0, 'vis_nclusters': 10, 'bs_vis_kmeans': None, 'len_stringqrcode': 100, 'data_type_qrcode': 'numeric', 'grid_coef_time': 10, 'cv_coef_time': 4, 'coef_ini': 255.0, 'metric_selection': 'roc_auc', 'model': 'fc_model', 'channel': 3, 'numfilters': 64, 'numlayercnn_per_maxpool': 1, 'nummaxpool': 1, 'dropout_cnn': 0.0, 'dropout_fc': 0.0, 'padding': 'n', 'filtersize': 3, 'poolsize': 2, 'num_classes': 2, 'epoch': 500, 'learning_rate': -1.0, 'batch_size': 16, 'learning_rate_decay': 0.0, 'momentum': 0.0, 'optimizer': 'adam', 'loss_func': 'binary_crossentropy', 'e_stop': 5, 'e_stop_consec': 'consec', 'svm_c': 1.0, 'svm_kernel': 'linear', 'rf_n_estimators': 500, 'rf_max_features': -2, 'rf_max_depth': -1, 'knn_n_neighbors': 5, 'coeff': 1.0}
+[]
+seed1 fold1/10###############seed1 fold1/10###############seed1 fold1/10
+Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten (Flatten)            (None, 3302)              0         
+_________________________________________________________________
+dense (Dense)                (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.84++0.757++0.931++0.812++0.412++0.517++0.509++-1.0++-1.0++-1.0++-1.0++14.735++79.0
+seed1 fold2/10###############seed1 fold2/10###############seed1 fold2/10
+Model: "sequential_1"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_1 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_1 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.77++0.649++0.883++0.647++0.507++0.644++0.294++-1.0++-1.0++-1.0++-1.0++27.709++27.0
+seed1 fold3/10###############seed1 fold3/10###############seed1 fold3/10
+Model: "sequential_2"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_2 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_2 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.874++0.595++0.952++0.721++0.353++0.61++0.18++-1.0++-1.0++-1.0++-1.0++46.981++125.0
+seed1 fold4/10###############seed1 fold4/10###############seed1 fold4/10
+Model: "sequential_3"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_3 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_3 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.801++0.694++0.904++0.762++0.471++0.564++0.389++-1.0++-1.0++-1.0++-1.0++60.665++43.0
+seed1 fold5/10###############seed1 fold5/10###############seed1 fold5/10
+Model: "sequential_4"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_4 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_4 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.749++0.722++0.881++0.69++0.512++0.645++0.447++-1.0++-1.0++-1.0++-1.0++73.557++25.0
+seed1 fold6/10###############seed1 fold6/10###############seed1 fold6/10
+Model: "sequential_5"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_5 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_5 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.774++0.611++0.889++0.693++0.496++0.607++0.225++-1.0++-1.0++-1.0++-1.0++86.828++32.0
+seed1 fold7/10###############seed1 fold7/10###############seed1 fold7/10
+Model: "sequential_6"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_6 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_6 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.749++0.556++0.856++0.638++0.579++0.679++0.103++-1.0++-1.0++-1.0++-1.0++98.888++12.0
+seed1 fold8/10###############seed1 fold8/10###############seed1 fold8/10
+Model: "sequential_7"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_7 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_7 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.771++0.639++0.876++0.697++0.532++0.629++0.274++-1.0++-1.0++-1.0++-1.0++111.166++22.0
+seed1 fold9/10###############seed1 fold9/10###############seed1 fold9/10
+Model: "sequential_8"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_8 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_8 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.746++0.583++0.86++0.619++0.577++0.676++0.162++-1.0++-1.0++-1.0++-1.0++122.712++12.0
+seed1 fold10/10###############seed1 fold10/10###############seed1 fold10/10
+Model: "sequential_9"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+flatten_9 (Flatten)          (None, 3302)              0         
+_________________________________________________________________
+dense_9 (Dense)              (None, 2)                 6606      
+=================================================================
+Total params: 6,606
+Trainable params: 6,606
+Non-trainable params: 0
+_________________________________________________________________
+after training
+t_acc--v_acc--t_auc--v_auc--t_los--v_los--v_mmc--tn--fp--fn--tp--time--ep_stopped
+0.881++0.806++0.96++0.907++0.342++0.435++0.612++-1.0++-1.0++-1.0++-1.0++143.868++147.0
+time	tr_ac	va_ac	sd	va_au	sd	tn	fn	fp	tp	preci	sd	recall	sd	f1	sd	mmc	sd	epst
+143.9	0.796	0.661	0.0	0.719	0.0	-1.0	-1.0	-1.0	-1.0	0.664	0.0	0.656	0.0	0.652	0.0	0.32	0.0	52.4
+tr_ac_a	sd_ac	va_ac_a	sd_ac	tr_au_a	sd_au	va_au_a	sd_au	va_mc_a	sd_mc
+0.7955610573291778	0.04897007576447253	0.6611111104488373	0.07721587826227447	0.8991279342435229	0.034828448520982686	0.7185603715170278	0.08337612620042968	0.3195722497184295	0.1566156853700362
