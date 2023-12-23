@@ -1,5 +1,6 @@
 
-<img src="[metagenomics.png](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/673b05f0-75eb-452f-ace0-55270b03dcd9)" alt="Description of the image" width="300" height="200" />
+<img src="[metagenomics.png](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/98540ddb-a674-413e-a049-a23ccf390cdb)" alt="Description of the image" width="300" height="200" />
+![Gastrointestinal Tract Gut Flora Small Intestinal Bacterial Overgrowth Large Intestine PNG - Free Download](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/98540ddb-a674-413e-a049-a23ccf390cdb)
 
 # What is Metagenomics?
 **Metagenomics** is a field of research in genetics and molecular biology that involves the study of genetic material collected directly from environmental samples. It allows scientists to understand the diversity, functional potential, and interactions of microorganisms in different ecosystems without having to isolate and culture each species. Metagenomics has many broad applications, including environmental research and human health (especially in understanding the gut microbiome).
