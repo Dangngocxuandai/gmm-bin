@@ -1,5 +1,5 @@
 
-<img src="https://github.com/Dangngocxuandai/dnxdai/assets/146327433/98540ddb-a674-413e-a049-a23ccf390cdb" alt="Description of the image" width="300" height="500" />
+<img src="https://github.com/Dangngocxuandai/dnxdai/assets/146327433/98540ddb-a674-413e-a049-a23ccf390cdb" alt="Description of the image" width="300" height="400" />
 
 
 # What is Metagenomics?
