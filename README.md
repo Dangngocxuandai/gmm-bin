@@ -1,4 +1,5 @@
-![metagenomics](https://pin.it/lmqHs2s)
+![metagenomics](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/673b05f0-75eb-452f-ace0-55270b03dcd9)
+
 
 # What is Metagenomics?
 **Metagenomics** is a field of research in genetics and molecular biology that involves the study of genetic material collected directly from environmental samples. It allows scientists to understand the diversity, functional potential, and interactions of microorganisms in different ecosystems without having to isolate and culture each species. Metagenomics has many broad applications, including environmental research and human health (especially in understanding the gut microbiome).
