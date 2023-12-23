@@ -17,6 +17,7 @@ We collected the data from the online Kaggle platform, which consists of a compr
 
 # Result
 ** The results of GMM with AUC measurement are 0.78283 $\pm$ 0.10963.
+
 ** The results of GMM with ACC measurement are 0.65350 $\pm$ 0.15677.
 ![2a](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/6153f65e-a4b3-45b0-9421-7e2d2e42bc56)
 
