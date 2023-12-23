@@ -15,7 +15,7 @@ Cluster analysis in metagenomics is classifying or grouping metagenomic data to 
 ![1](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/383c5cb0-1f72-4fec-b146-8c968c24008d)
 
 # Dataset
-We collected the data from the online Kaggle platform (https://www.kaggle.com/datasets/antaresnyc/metagenomics), which consists of a comprehensive summary comprising 3302 columns and 3611 rows. This dataset was created by (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004977), who published a research paper in July 2016 and developed MetAML - Machine Learning-based Metagenomic Analysis. We standardized the metagenomic microbial data for 1644 samples from 6 studies related to 5 diseases. 
+We collected the data from the online Kaggle platform (https://www.kaggle.com/datasets/antaresnyc/metagenomics), which consists of a comprehensive summary comprising 3302 columns and 3611 rows. This dataset was created by Edoardo Pasolli et al, who published a research paper [in July 2016](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004977) and developed MetAML - Machine Learning-based Metagenomic Analysis. We standardized the metagenomic microbial data for 1644 samples from 6 studies related to 5 diseases. 
 
 ![data](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/daf38595-1bff-418d-b6af-18997757fd11)
 
