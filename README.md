@@ -8,7 +8,7 @@
 # Binning based on Gaussian Mixture Models?!
 Cluster analysis in metagenomics is classifying or grouping metagenomic data to understand the structure and diversity of microbial communities in a given sample environment. When employing Gaussian Mixture Models (GMM) in this context, we create a probabilistic model to classify or group metagenomic samples based on their distribution. 
 
-[1](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/383c5cb0-1f72-4fec-b146-8c968c24008d)
+![1](https://github.com/Dangngocxuandai/dnxdai/assets/146327433/383c5cb0-1f72-4fec-b146-8c968c24008d)
 
 # Dataset
 We collected the data from the online Kaggle platform, which consists of a comprehensive summary comprising 3302 columns and 3611 rows. This dataset was created by (https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1004977), who published a research paper in July 2016 and developed MetAML - Machine Learning-based Metagenomic Analysis. We standardized the metagenomic microbial data for 1644 samples from 6 studies related to 5 diseases. 
