@@ -30,7 +30,7 @@ We collected the data from the online Kaggle platform, which consists of a compr
 ### Clone repository
 git clone [https://github.com/Dangngocxuandai/dnxdai.git]
 
-# Useful Commands
+### Useful Commands
 * To run GMM's clustering results, run the command line:
 ```bash
 cd /dnxdai/20232024-01-CT252-B2003731_final/deep-metagnomics-pub-main-final
